@@ -1,2 +1,3 @@
-# cardano-governance-
-Contains public rationals and goverenance records for Upstreams SPO and DRep identities
+# Upstream Cardano Governance
+
+Contains public rationals and goverenance records for Upstreams SPO and DRep identities.
