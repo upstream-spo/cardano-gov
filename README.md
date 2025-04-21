@@ -1,3 +1,3 @@
-# Upstream Cardano Governance
+# [UPSTR] Upstream Cardano Governance
 
-Contains public rationals and goverenance records for Upstreams SPO and DRep identities.
+Contains public rationales and goverenance records for [UPSTR] Upstream SPO and DRep identities.
